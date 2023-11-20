@@ -21,19 +21,33 @@ Benefits: The combination of DDPG and HER is powerful because DDPG is effective 
 
 In summary, DDPG+HER for Fetch Robot Task represents an approach to training a robotic agent using a reinforcement learning algorithm (DDPG) along with a technique (HER) designed to enhance learning in scenarios where rewards are sparse or delayed, which is common in tasks involving manipulation and interaction with objects (Fetch Robot Task). This combination aims to improve the efficiency and effectiveness of training robots for complex tasks.
 
+# Tasks
+
+- FetchReach-v2: Fetch has to move its end-effector to the desired goal position.
+
+- FetchPush-v2: Fetch has to move a box by pushing it until it reaches a desired goal position.
+
+- FetchSlide-v2: Fetch has to hit a puck across a long table such that it slides and comes to rest on the desired goal.
+
+- FetchPickAndPlace-v2: Fetch has to pick up a box from a table using its gripper and move it to a desired goal above the table.
+
 # Results
 
 ![FetchReach](Reach.png)
 ![FetchPush](Push.png)
 ![FetchPickAndPlace](PickAndPlacepng.png)
-![FetchSlice](Slide.png)
+![FetchSlide](Slide.png)
 
 # Demo
-
+- Reach
 ![FetchReach](Videos/Reach.gif)
+- Push
 ![FetchPush](Videos/Push.gif)
-![FetchPickAndPlace](PickAndPlacepng.png)
-![FetchSlice](Slide.png)
+- Pick And Place
+![FetchPickAndPlace](Videos/PickAndPlace.gif)
+- Slide
+![FetchSlide](Videos/Slide.gif)
 
 # Reference
 Open AI: https://doi.org/10.48550/arXiv.1707.01495
+Environment: https://robotics.farama.org/envs/fetch/

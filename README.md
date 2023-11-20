@@ -18,5 +18,10 @@ Integration: This phrase indicates the combination of the DDPG algorithm with th
 Benefits: The combination of DDPG and HER is powerful because DDPG is effective in continuous action spaces, while HER helps address the challenges of sparse rewards, enabling more efficient learning in complex environments.
 In summary, DDPG+HER for Fetch Robot Task represents an approach to training a robotic agent using a reinforcement learning algorithm (DDPG) along with a technique (HER) designed to enhance learning in scenarios where rewards are sparse or delayed, which is common in tasks involving manipulation and interaction with objects (Fetch Robot Task). This combination aims to improve the efficiency and effectiveness of training robots for complex tasks.
 
+# Results
+
+
+
+
 # Reference
-Open AI 
+Open AI: https://doi.org/10.48550/arXiv.1707.01495

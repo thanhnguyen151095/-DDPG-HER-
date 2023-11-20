@@ -32,7 +32,7 @@ In summary, DDPG+HER for Fetch Robot Task represents an approach to training a r
 - FetchPickAndPlace-v2: Fetch has to pick up a box from a table using its gripper and move it to a desired goal above the table.
 
 # Results
-![alt-text-1](Figures/Reach.png "title-1") ![alt-text-2](Figures/Push.png "title-2")
+![alt-text-1](Figures/Reach.png "title-1" width="425") ![alt-text-2](Figures/Push.png "title-2" width="425")
 ![FetchReach](Figures/Reach.png)
 ![FetchPush](Figures/Push.png)
 ![FetchPickAndPlace](Figures/PickAndPlace.png)

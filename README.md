@@ -63,7 +63,7 @@ Reach| Push|
 
 Pick And Place | Slide|
 -----------------------|-----------------------|
-![](Videos/PickAnd Place.gif)|![](Videos/Slide.gif)
+![](Videos/Videos/PickAnd Place.gif)|![](Videos/Slide.gif)
 
 
 # Reference

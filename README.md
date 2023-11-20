@@ -44,23 +44,18 @@ In summary, DDPG+HER for Fetch Robot Task represents an approach to training a r
 </p>
 
 # Demo
-- Reach and Push
+- Reach & Push
 <p float="left">
   <img src="Videos/Reach.gif" width="500" alt="Reach" title="Angular" h/>
   <img src="Videos/Push.gif" width="500" title="Push"/> 
 </p>
 
+- Pick And Place & Slide
+<p float="left">
+  <img src="Videos/PickAndPlace.gif" width="500" alt="PickAndPlace" title="PickAndPlace" h/>
+  <img src="Videos/Slide.gif" width="500" title="Slide"/> 
+</p>
 
-![FetchReach](Videos/Reach.gif)
-
-- Push
-![FetchPush](Videos/Push.gif)
-
-- Pick And Place
-![FetchPickAndPlace](Videos/PickAndPlace.gif)
-
-- Slide
-![FetchSlide](Videos/Slide.gif)
 
 # Reference
 - Open AI: https://doi.org/10.48550/arXiv.1707.01495

@@ -41,13 +41,17 @@ In summary, DDPG+HER for Fetch Robot Task represents an approach to training a r
 # Demo
 - Reach
 ![FetchReach](Videos/Reach.gif)
+
 - Push
 ![FetchPush](Videos/Push.gif)
+
 - Pick And Place
 ![FetchPickAndPlace](Videos/PickAndPlace.gif)
+
 - Slide
 ![FetchSlide](Videos/Slide.gif)
 
 # Reference
-Open AI: https://doi.org/10.48550/arXiv.1707.01495
-Environment: https://robotics.farama.org/envs/fetch/
+- Open AI: https://doi.org/10.48550/arXiv.1707.01495
+
+- Environment: https://robotics.farama.org/envs/fetch/

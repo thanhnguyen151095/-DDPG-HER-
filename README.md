@@ -44,13 +44,13 @@ In summary, DDPG+HER for Fetch Robot Task represents an approach to training a r
 </p>
 
 # Demo
-
+- Reach and Push
 <p float="left">
-  <img src="Videos/Reach.gif" width="500" alt="Reach"/>
+  <img src="Videos/Reach.gif" width="500" alt="Reach" title="Angular" h/>
   <img src="Videos/Push.gif" width="500" title="Push"/> 
 </p>
 
-- Reach
+
 ![FetchReach](Videos/Reach.gif)
 
 - Push

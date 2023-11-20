@@ -22,7 +22,7 @@ In summary, DDPG+HER for Fetch Robot Task represents an approach to training a r
 
 ![FetchReach](Reach.png)
 ![FetchReach](Push.png)
-![FetchReach](PicAndPlace.png)
+![FetchReach](PicAndPlacepng.png)
 ![FetchReach](Slide.png)
 
 

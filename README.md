@@ -31,6 +31,10 @@ In summary, DDPG+HER for Fetch Robot Task represents an approach to training a r
 
 - FetchPickAndPlace-v2: Fetch has to pick up a box from a table using its gripper and move it to a desired goal above the table.
 
+# Implementation
+
+The Actor-Critic Networks are implemented using PyTorch. The system employs 32 workers, with each worker executing 50 epochs. Within each epoch, there are 25 cycles, and each cycle involves running the policy for 16 episodes, followed by 40 optimization steps on minibatches comprising 256 samples. It is noteworthy that the remaining parameters align with the specifications outlined in the Hindsight Experience Replay (HER) paper.
+
 # Results
 |_|_|
 |:---:|:---:|
